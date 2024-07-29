@@ -1,7 +1,8 @@
 {
   "dependencies": {
-      "@discordjs/voice": "^0.17.0",
-      "discord.js": "^14.15.3"
+    "@discordjs/voice": "^0.17.0",
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3"
   },
   "nodeVersion": "21.6.2",
   "main": "bot.js"
