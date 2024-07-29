@@ -4,5 +4,5 @@
       "discord.js": "^14.15.3"
   },
   "nodeVersion": "21.6.2",
-  "main": "bot.ts"
+  "main": "bot.js"
 }
